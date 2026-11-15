@@ -167,5 +167,6 @@
     ],
     "markdownlint.config": {
         "no-duplicate-heading": false
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
 }
